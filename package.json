@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "boafo-accessibility-widget": "^1.1.8",
+    "next": "^16.1.6"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.4"
+  },
+  "scripts": {
+    "dev": "browser-sync start --server --files '*/.html, */.css, */.js'"
+  }
+}
